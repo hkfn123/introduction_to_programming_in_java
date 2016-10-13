@@ -8,7 +8,9 @@ plan:
 2016-10-13
 
 - Elements of Programming 
-- Functions
+
+	1. Elements of Programming
+	2. Built-in Types of Data
 
 
 
