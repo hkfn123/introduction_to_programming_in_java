@@ -10,7 +10,16 @@ plan:
 - Elements of Programming 
 
 	1. Elements of Programming
-	2. Built-in Types of Data
+
+		1.1   Your First Java Program:   Hello World
+
+2016-10-14
+	
+	1.2 Built-in Types of Data
+
+	1.3 
+
+
 
 
 
