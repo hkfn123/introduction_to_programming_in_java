@@ -17,7 +17,11 @@ plan:
 	
 	1.2 Built-in Types of Data
 
-	1.3 
+	1.3   Conditionals and Loops
+
+2016-10-17
+
+	1.3   Conditionals and Loops
 
 
 
